@@ -11,7 +11,7 @@ aktt_notify_twitter:
 ---
 We just received a note from David Hinkle, Director of [Afghanistan Infrastructure Data Center](http://www.aidc.af/aidc/) (AIDC) that we wanted to share. AIDC tracks and reports on civilian and military donor infrastructure projects in order to provide USAID and the supported Islamic Republic of Afghanistan (IRoA) ministries with a comprehensive and accurate picture of infrastructure development and related security incidents.
 
-David wrote, “_As an NGO performing infrastructure development oversight activities under USAID funding we have struggled with collecting accurate reports from field monitors located in remote and insecure parts of the country. </p> 
+David wrote, “_As an NGO performing infrastructure development oversight activities under USAID funding we have struggled with collecting accurate reports from field monitors located in remote and insecure parts of the country. 
 
 Traditional handheld GPS and digital cameras have been used in the past, but present two major problems. First, they are seen by many local people as an indication that the person using these devices is either collecting intelligence information or coordinating military activities. This has placed field monitors in very dangerous situations. Second, it has been extremely difficult to collect, sort, verify and integrate data collected in the field with the infrastructure database we manage on behalf of the development community and Afghan Government.
 

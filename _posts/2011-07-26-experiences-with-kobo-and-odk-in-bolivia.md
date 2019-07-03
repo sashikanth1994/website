@@ -13,7 +13,7 @@ aktt_notify_twitter:
 
 Maryann used the [KoBo Project](http://koboproject.org/), data collection tools from Berkeley’s [Human Rights Center](http://www.law.berkeley.edu/HRCweb/index.html). Like ODK, KoBo is built on the [OpenRosa](http://openrosa.org/) standard. The popular tools are the KoBo Form Builder (based on [PurcForms](http://code.google.com/p/purcforms/)) and KoBo Post Processor. ODK and KoBo tools are fully compatible so many users like Maryann can mix and match as they need!
 
-She writes, _“I was lucky enough to have the funding to purchase 5 Huawei IDEOS devices and worked with ODK and KoBo for my surveys. </p> 
+She writes, _“I was lucky enough to have the funding to purchase 5 Huawei IDEOS devices and worked with ODK and KoBo for my surveys.
 
 [<img src="/assets/wp-content/uploads/2011/07/IMG_3943-300x225.jpg" width="250" align="left" alt="Three people in an ODK training session" />](/assets/wp-content/uploads/2011/07/IMG_3943.jpg)
 

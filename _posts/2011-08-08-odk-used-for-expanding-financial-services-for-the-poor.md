@@ -11,7 +11,7 @@ aktt_notify_twitter:
 ---
 Peter Fleming from [Bankable Frontier Associates](http://www.bankablefrontier.com/) is using ODK to conduct surveys that support their clients in their efforts to expand financial services to the poor.
 
-He writes, _“We’re using 16 Huawei Android IDEOS ($90 each from Safaricom, they come unlocked). I was a bit worried about using such cheap phones, but they have been perfect so far (2 weeks), and have collected more than 10,000 short surveys/census with GPS, without a single glitch. </p> 
+He writes, _“We’re using 16 Huawei Android IDEOS ($90 each from Safaricom, they come unlocked). I was a bit worried about using such cheap phones, but they have been perfect so far (2 weeks), and have collected more than 10,000 short surveys/census with GPS, without a single glitch.
 
 In Airplane Mode, the batteries last for 2 full days of data collection. You could compare these IDEOS to the HTC Magic, just a bit smaller and cheaper. I would highly recommend them if someone is looking for a cheap unlocked Android without a QWERTY keyboard.
 

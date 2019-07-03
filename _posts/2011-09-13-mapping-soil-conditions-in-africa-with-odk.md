@@ -13,7 +13,7 @@ aktt_notify_twitter:
 
 [<img src="/assets/wp-content/uploads/2011/09/afsis_collect_small.jpg" align="right" width="200" alt="Enumerator entering data into ODK" />](/assets/wp-content/uploads/2011/09/afsis_collect_small.jpg) 
 
-Eric Couper, the ICT & Agriculture Coordinator of AfSIS writes, _“We are currently researching the agricultural input/output relationship and existing agricultural information flows in the [Kisongo](http://g.co/maps/kpqvk), Musa, and Mateves wards, just west of Arusha, Tanzania. When paired with soil data that AfSIS has previously collected, AfSIS’s data can be used by the Tanzanian Ministry of Agriculture, other agricultural research organizations, and NGOs to inform their work and recommendations.</p> 
+Eric Couper, the ICT & Agriculture Coordinator of AfSIS writes, _“We are currently researching the agricultural input/output relationship and existing agricultural information flows in the [Kisongo](http://g.co/maps/kpqvk), Musa, and Mateves wards, just west of Arusha, Tanzania. When paired with soil data that AfSIS has previously collected, AfSIS’s data can be used by the Tanzanian Ministry of Agriculture, other agricultural research organizations, and NGOs to inform their work and recommendations.
 
 The team recently trained four agricultural extension officers on the use of ODK and began using both mobile phones and tablets to conduct their survey. They used [Xls2XForm](http://xform-prod.mvpafrica.org) to generate its survey, and they are using a custom Django-based application for receiving and displaying their data, both developed by Columbia University’s [Modi Research Group](http://modi.mech.columbia.edu/), an AfSIS partner. 
 

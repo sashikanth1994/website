@@ -11,7 +11,7 @@ aktt_notify_twitter:
 ---
 A few weeks ago, we wrote about [New York using ODK for health operations.](/2011/09/new-york-city-using-odk-for-health-operations/) Around the same time, we got a note from Andrew Faust of [North Central Wisconsin Regional Planning Commission](http://www.ncwrpc.org). 
 
-Andrew wrote, “_Here in Wisconsin, we are using ODK to collect data in the field for assessment information after a natural hazard like storm, flood or tornado. This allows Emergency Response Professionals to collect information in the field in real time with an Android mobile device and map them in real time. </p> 
+Andrew wrote, “Here in Wisconsin, we are using ODK to collect data in the field for assessment information after a natural hazard like storm, flood or tornado. This allows Emergency Response Professionals to collect information in the field in real time with an Android mobile device and map them in real time. 
 
 We are just in testing of how this will work. Next month, we are going to do our first functional exercise using ODK to see how it will work and what we will need to tweak on our end. We plan to collect data with ODK, push it to Google Docs and into a spreadsheet to create reports on damage totals.
 
