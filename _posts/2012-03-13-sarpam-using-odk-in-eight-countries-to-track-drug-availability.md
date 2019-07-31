@@ -19,6 +19,6 @@ Adi explains that, _“the first step is to collect evidence of systemic failing
 
 This isn’t the end of the road. Once policy change has occurred, Tendai can be used to monitor the effectiveness of that intervention. For instance, large scale stock-outs of ciprofloxacin may indicate a problematic supply chain. Once a strategy is implemented to correct the problem, civil society, through Tendai can evaluate whether this solution has indeed resulted in a reduction in stock-outs.
 
-This is of course a simplistic example but there is a lot of value in understanding the nature of a problem before attempting to take action to correct it. Specifically with Tendai, we are hoping to encourage increased collaboration between governments and civil society to improve public health systems.”</em>
+This is of course a simplistic example but there is a lot of value in understanding the nature of a problem before attempting to take action to correct it. Specifically with Tendai, we are hoping to encourage increased collaboration between governments and civil society to improve public health systems.”
 
 Browse all the data the project has collected at [http://tendai.medicinesinfohub.net](http://tendai.medicinesinfohub.net/)

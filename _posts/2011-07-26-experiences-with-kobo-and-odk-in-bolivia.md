@@ -51,6 +51,6 @@ However, just to confirm after my research experience, the individuals we survey
 
 The enumerators reported that it was not intimidating and that the technology didn’t even elicit comment from most of those who were surveyed. I would argue that using the cell for voice recording would have been less intimidating than a traditional voice recording device — I might try to work that out for my next trip. 
 
-I completed qualitative focus groups and interviews without the use of ODK and KoBo for this trip. However, I think that the tools have endless possibilities for qualitative data collection. When I return to Bolivia it is possible that I may use them for photo voice/photo essays, voice/video recording, more extensive mapping, etc. I’ll keep you posted.”</em>
+I completed qualitative focus groups and interviews without the use of ODK and KoBo for this trip. However, I think that the tools have endless possibilities for qualitative data collection. When I return to Bolivia it is possible that I may use them for photo voice/photo essays, voice/video recording, more extensive mapping, etc. I’ll keep you posted.”
 
 Do you have an ODK story you’d like to share with the community? Send it to [contact@opendatakit.org](mailto:contact@opendatakit.org).

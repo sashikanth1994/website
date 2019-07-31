@@ -16,6 +16,6 @@ The [blog post](http://www.impatientoptimists.org/Posts/2012/03/Being-Smarter-Ab
 
 DSW’s field officers visit chlorine dispensers in the field and identify them individually with a quick scan of their unique barcodes. Data are collected on any dispenser hardware problems, the backup chlorine supply, and their frequency of use by local community members. Daily results are then uploaded to a centralized database and available for instant analysis to guide subsequent fieldwork.
 
-The Chlorine Dispenser System is being scaled up in Kenya, and DSW is committed to applying rigorous evidence to programs. Having real-time data available for decision making helps take the guesswork out of safe water delivery by quickly focusing efforts where they are needed most. In this way, smartphones can help bring us one step closer to providing safe water for all.”</em>
+The Chlorine Dispenser System is being scaled up in Kenya, and DSW is committed to applying rigorous evidence to programs. Having real-time data available for decision making helps take the guesswork out of safe water delivery by quickly focusing efforts where they are needed most. In this way, smartphones can help bring us one step closer to providing safe water for all.”
 
 It’s always exciting to see ODK tools powering decision-making, so congrats to Jessica and the entire IPA team! Find out more about their work at <http://www.poverty-action.org>.

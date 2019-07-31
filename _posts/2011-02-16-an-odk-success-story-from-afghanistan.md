@@ -19,4 +19,4 @@ This fall we began testing ODK in the office and more importantly, in the field.
 
 In addition, they can now send their field reports via the ubiquitous GPRS network from almost anywhere in the country. The data moves quickly to our database where office engineers can review and retask as necessary. One side benefit is that the Android platform provides internet connectivity for their issued laptops. They are no longer forced expose themselves to additional risk by visiting public internet cafes to send periodic and administrative reports.
 
-I send this note to thank you for your efforts, which has so significantly enhanced our efforts.</em>“
+I send this note to thank you for your efforts, which has so significantly enhanced our efforts.“

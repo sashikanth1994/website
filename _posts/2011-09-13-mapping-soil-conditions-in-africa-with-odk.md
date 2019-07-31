@@ -19,7 +19,7 @@ The team recently trained four agricultural extension officers on the use of ODK
 
 To manage logistical challenges of their geo-spatially randomized survey procedure, AfSIS has adopted Android apps, [Locus Free](https://market.android.com/details?id=menion.android.locus) (navigation) and [Distance and Area Measurement](https://market.android.com/details?id=measureapp.measureapp&feature=search_result) (area measurement). AfSIS will explore how well these apps work in conjunction with ODK survey procedures.
 
-In the medium term, AfSIS will be developing a short and focused, broadly-applicable, and easily-adopted package of resources (including training materials, existing survey, back-end web support, etc.) for other organizations with similar research questions.”</em>
+In the medium term, AfSIS will be developing a short and focused, broadly-applicable, and easily-adopted package of resources (including training materials, existing survey, back-end web support, etc.) for other organizations with similar research questions.”
 
 AfSIS will be documenting its progress [here](http://africasoils.net/labs/ict4ag/) and they have [lots of photos](https://beta.africasoils.net/labs/wordpress/images-from-the-field/field-testing-in-kisongo-2/) online. 
 

@@ -21,6 +21,6 @@ They’ve trying to figure out how to use the G1 phones they’re receiving from
 
 It would probably not need anybody travelling to Nairobi – just somebody back stopping the setting up of the Android data collection system and providing technical support.
 
-I’m posting this here hoping that someone in the ODK community has the spare cycles to step in for the short term and help them set the system up. The potential effect on human life, both short term and long, is enormous. If you think you might be able to help, please contact Nick Short (<nshort@rvc.ac.uk>) of the Royal Veterinary College for more information.”</em>
+I’m posting this here hoping that someone in the ODK community has the spare cycles to step in for the short term and help them set the system up. The potential effect on human life, both short term and long, is enormous. If you think you might be able to help, please contact Nick Short (<nshort@rvc.ac.uk>) of the Royal Veterinary College for more information.”
 
 If you are familiar with ODK and can help, please reach out to Nick as soon as you can. Thanks!

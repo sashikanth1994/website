@@ -15,7 +15,7 @@ Andrew wrote, “Here in Wisconsin, we are using ODK to collect data in the fiel
 
 We are just in testing of how this will work. Next month, we are going to do our first functional exercise using ODK to see how it will work and what we will need to tweak on our end. We plan to collect data with ODK, push it to Google Docs and into a spreadsheet to create reports on damage totals.
 
-I would like to personally thank you folks for all your effort on ODK and I hope this works out for Wisconsin.</em>”
+I would like to personally thank you folks for all your effort on ODK and I hope this works out for Wisconsin.”
 
 As you can see below, the [Wisconsin’s Hazard Assessment and Mapping (WHAM)](http://www.ncwrpc.org/WHAM/) application passed its functional exercise today. Congrats to Andrew and his team!
 
